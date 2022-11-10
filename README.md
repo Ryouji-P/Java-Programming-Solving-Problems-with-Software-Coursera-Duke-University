@@ -25,3 +25,6 @@ Quiz 5
 <img width="914" alt="image" src="https://user-images.githubusercontent.com/113123500/201074530-b2f42446-ad30-4ccc-b417-a6bba6359ae5.png">
 <img width="932" alt="image" src="https://user-images.githubusercontent.com/113123500/201074635-225fbd7c-6eb6-4ee4-a8f4-c367f7d6225a.png">
 <img width="915" alt="image" src="https://user-images.githubusercontent.com/113123500/201074679-8d454f8e-0909-4597-8453-57274dc07330.png">
+
+For macOS Ventura, download new version of BlueJ
+https://www.reddit.com/r/MacOSBeta/comments/ye3c9g/bluej_isnt_launching_on_macos_ventura_130/
