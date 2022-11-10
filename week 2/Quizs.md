@@ -1,4 +1,4 @@
-Quiz 1\r\n
+Quiz 1. 
 <img width="917" alt="image" src="https://user-images.githubusercontent.com/113123500/201090102-248f5d07-2fc5-4c98-9ce2-50554ad3a3bd.png">
 <img width="912" alt="image" src="https://user-images.githubusercontent.com/113123500/201090182-44d21620-0d6c-4c5f-9f66-92ea02287e0c.png">
 <img width="917" alt="image" src="https://user-images.githubusercontent.com/113123500/201090230-60ca6d8b-9a13-4ad1-a0e4-bed2103ec252.png">
