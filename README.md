@@ -1,4 +1,4 @@
-# Java-Programming-coursera-Duke-University
+# Java-Programming-Coursera-Duke-University
 Java programming: solving problems with software - week 1
 Quiz 1
 <img width="934" alt="image" src="https://user-images.githubusercontent.com/113123500/201072255-394997b2-7813-4112-83b6-a73005641542.png">
